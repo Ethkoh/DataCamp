@@ -18,7 +18,6 @@ Use plt.plot() to build a line plot. year should be mapped on the horizontal axi
 # Print the last item from year and pop
 print(year[-1],pop[-1])
 
-
 # Import matplotlib.pyplot as plt
 import matplotlib.pyplot as plt
 
