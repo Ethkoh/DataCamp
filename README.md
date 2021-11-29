@@ -17,3 +17,5 @@ These are courses that I have completed for Data Scientist with Python track.
 - 13_machine_learning_with_tree_based_models_in_python
 - 14_introduction_to_data_visualization_with_matplotlib
 - 15_introduction_to_data_visualization_with_seaborn
+- 16_introduction_to_sql_server
+- 17_exploratory_data_analysis_in_sql
