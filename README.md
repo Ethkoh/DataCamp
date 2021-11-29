@@ -1,6 +1,6 @@
 # DataCamp
 
-These are courses that I have completed for Data Scientist with Python track. 
+These are courses that I have completed
 
 - 01_introduction_to_python
 - 02_intermediate_python_for_data_science
