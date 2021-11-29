@@ -1,6 +1,6 @@
 # DataCamp
 
-These are courses that I have completed
+These are courses I have completed
 
 - 01_introduction_to_python
 - 02_intermediate_python_for_data_science
