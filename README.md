@@ -19,3 +19,7 @@ These are courses I have completed
 - 15_introduction_to_data_visualization_with_seaborn
 - 16_introduction_to_sql_server
 - 17_exploratory_data_analysis_in_sql
+- 18_Naïve Bees: Image Loading and Processing
+- 19_Naïve Bees: Predict Species from Images
+- 20_image_processing_in_python
+- 21_biomedical_image_analysis_in_python
