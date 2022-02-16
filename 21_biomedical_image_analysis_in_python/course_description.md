@@ -1,0 +1,2 @@
+# Course Description
+The field of biomedical imaging has exploded in recent years - but for the uninitiated, even loading data can be a challenge! In this introductory course, you'll learn the fundamentals of image analysis using NumPy, SciPy, and Matplotlib. You'll navigate through a whole-body CT scan, segment a cardiac MRI time series, and determine whether Alzheimer’s disease changes brain structure. Even if you have never worked with images before, you will finish the course with a solid toolkit for entering this dynamic field.
