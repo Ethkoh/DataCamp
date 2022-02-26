@@ -23,3 +23,4 @@ These are courses I have completed
 - 19_Naïve Bees: Predict Species from Images
 - 20_image_processing_in_python
 - 21_biomedical_image_analysis_in_python
+- 22_image_processing_with_keras_in_python
